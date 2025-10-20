@@ -5,18 +5,6 @@ Proyek ini dikembangkan sebagai implementasi praktis dari konsep **Sistem Operas
 
 🔗 **[🌐 Lihat Live Preview](https://priority-scheduling-on-hospital.vercel.app)**
 
----
-
-## 📋 Daftar Isi
-- [🚀 Tentang Proyek](#-tentang-proyek)
-- [✨ Fitur Utama](#-fitur-utama)
-- [🛠️ Dibangun Dengan](#%EF%B8%8F-dibangun-dengan)
-- [🏁 Memulai](#-memulai)
-- [🧠 Cara Kerja](#-cara-kerja)
-- [📸 Screenshot](#-screenshot)
-
----
-
 ## 🚀 Tentang Proyek
 
 Di ruang **UGD rumah sakit**, tidak semua pasien datang dengan tingkat urgensi yang sama.  
